@@ -1,8 +1,11 @@
 # How to run
 
-One can reproduce the simulation results in the latest version of our paper https://arxiv.org/abs/2404.04576:
+This repository provides the code for the numerical simulations in the following paper:
 
-The extended report is available in this repository; see `paper_long_v3.pdf`.
+Yuto Watanabe, Sotaro Fushimi, and Kazunori Sakurama, "Convex Reformulation of LMI-Based Distributed Controller Design
+with a Class of Non-Block-Diagonal Lyapunov Functions," IEEE Transactions on Automatic Control, 2026 (to appear).
+
+One can reproduce the simulation results in the latest version of our paper: https://arxiv.org/abs/2404.04576.
 
 Stabilization case: `sim_stab_random_systems.m` (for 200 randomly generated systems)
 
