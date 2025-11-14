@@ -2,7 +2,7 @@
 
 This repository provides the code for the numerical simulations in the following paper:
 
-Yuto Watanabe, Sotaro Fushimi, and Kazunori Sakurama, "Convex Reformulation of LMI-Based Distributed Controller Design
+>Yuto Watanabe, Sotaro Fushimi, and Kazunori Sakurama, "Convex Reformulation of LMI-Based Distributed Controller Design
 with a Class of Non-Block-Diagonal Lyapunov Functions," IEEE Transactions on Automatic Control, 2026 (to appear).
 
 One can reproduce the simulation results in the latest version of our paper: https://arxiv.org/abs/2404.04576.
