@@ -13,5 +13,4 @@ H infinity control case with Complib: `sim_Hinf_complib.m` (for models from Comp
 
 Data of System matrices can be found in `A_matrices_{stab,Hinf}.m` and  `B_matrices_{stab,Hinf}.m`. The additional simulation results for randomly generated systems can be reproduced by `sim_Hinf_random_systems.m` (for H infinity optimal control; Fig 4) and `sim_subHinf_random_systems.m` (for H infinity "sub"optimal control; Table 4).
  
-The initial version is https://github.com/WatanabeYuto/LMI-Based_Distributed_Controller_Design_with_Non-Block-Diagonal_Lyapunov_Functions.
-Acknowledgement: The Complib library is from http://www.complib.de/. Thank Dr. Leibfritz for the library. 
+Acknowledgement: The Complib library is from http://www.complib.de/. Thank Dr. Leibfritz for the library. Several codes `generate_SXlessS.m` and `Hinfty_SI.m`) are based on the paper (Sparsity Invariance for Convex Design of Distributed Controllers, by by Luca Furieri, Yang Zheng, Antonis Papachristodoulou, Maryam Kamgarpour, IEEE Transactions on Control of Network Systems, 2020) and the repository (https://github.com/FurieriLuca/Sparsity-Invariance).
